@@ -20,7 +20,7 @@ repository    : "FFFFFFFFUX/fuxin-cv"            # 用户名/仓库名
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar      : "profile.png"
+  avatar      : "2cc.png"
   name        : "Fu Xin"
   bio         : "Undergraduate in Statistics · Financial econometrics · Risk interaction networks"
   email       : "ffffffff220303@163.com"
