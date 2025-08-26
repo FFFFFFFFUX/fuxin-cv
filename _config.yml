@@ -7,29 +7,28 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title         : "Fu Xin — Academic Homepage"
+name          : &name "Fu Xin"
+description   : &description "Academic CV, publications, and research in financial econometrics and risk networks."
+
+url           : "https://FFFFFFFFUX.github.io"   # 这里是你的用户名
+baseurl       : "/fuxin-cv"                      # 这里是仓库名，注意要加斜杠
+repository    : "FFFFFFFFUX/fuxin-cv"            # 用户名/仓库名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar      : "profile.png"
+  name        : "Fu Xin"
+  bio         : "Undergraduate in Statistics · Financial econometrics · Risk interaction networks"
+  email       : "ffffffff220303@163.com"
+  github      : "FFFFFFFFUX"
+  location         : "China"
+  employer         : "Nanyang Technological University Singapore"
   uri              : # URL
-  email            : "none@example.org" 
+  
 
   # Academic websites
   academia         : # URL
